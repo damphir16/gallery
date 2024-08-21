@@ -51,7 +51,7 @@
 				<base-button mode="transparentLight">Instagram</base-button>
 				<base-button mode="transparentLight">Facebook</base-button>
 				<base-button mode="transparentLight">Twitter</base-button>
-				<base-button mode="transparentLight">Pinteres</base-button>
+				<base-button mode="transparentLight">Pinterest</base-button>
 				<base-button mode="transparentLight">Youtube</base-button>
 			</div>
 		</section>
