@@ -253,7 +253,7 @@ export default {
 	},
 	methods: {
 		deleteItem(name) {
-			this.images = this.images.filter((img) => img.name !== name);
+			this.filteredImages = this.images.filter((img) => img.name !== name);
 			this.declineDelete();
 		},
 		deleteElementHandler(data) {
